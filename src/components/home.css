@@ -1,0 +1,17 @@
+.delete {
+  text-align: end;
+  font-size: larger;
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+button {
+  border: none;
+  padding: 5px 15px;
+  background-color: rgb(18, 40, 110);
+  color: white;
+  border-radius: 5px;
+}
+button:hover {
+  transform: scale(1.04);
+}

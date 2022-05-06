@@ -1,0 +1,27 @@
+.card-content {
+  height: 50px;
+  padding: 0 20px;
+}
+.card-content h3 {
+  float: left;
+  text-align: center;
+  line-height: 50px;
+  background-color: whitesmoke;
+  width: 90%;
+  border-radius: 5px;
+}
+
+.card-content i {
+  float: right;
+  line-height: 50px;
+  font-size: 25px;
+  width: 40px;
+  padding-left: 9px;
+  background-color: rgb(173, 10, 5);
+  border-radius: 5px;
+  color: white;
+}
+.card-content i:hover {
+  cursor: pointer;
+  transform: scale(1.04);
+}
